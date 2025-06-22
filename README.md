@@ -24,14 +24,6 @@ This project is a simple, static landing page inspired by Evernote's design. It 
 │   └── images-removebg-preview.png
 ```
 
-## Setup Instructions
-
-1. Clone or download this repository.
-2. Ensure that the `Images` folder contains the necessary images:
-   - `background.webp`
-   - `images-removebg-preview.png`
-3. Open `index.html` in your web browser to view the page.
-
 ## Features
 
 - Navigation bar with dropdown (although the dropdown items currently contain placeholder links).
