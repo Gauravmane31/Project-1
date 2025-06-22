@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('Images/background.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    background-color: aliceblue;
+    width: 100%;
+}
+#mainLogo{
+    width: 9%;
+    float: left; 
+    margin-left: 7%;
+}
+select{
+    border: 3px solid aliceblue;
+    background-color:aliceblue;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    display: inline-block;
+    margin-left: 4%;
+}
+li{
+    display: inline-block;
+    margin: 8% 15px;
+}
+.inputtext{
+    float: right;
+    margin-top: 2.3%;
+    margin-right: 2%;
+    padding-inline: 1.5rem;
+    padding-block: 0.5rem;
+    border: 2px solid black;    
+    border-radius: 20px;
+}
+main{
+    margin-top:8%;
+    margin-left: 9%;
+    width: 35%;
+    background-color: rgba(225, 225, 225, 0.5);
+    padding-inline: 5%;
+    padding-block: 5%;
+    border-radius: 5%;
+}
+h1{
+    font-size: 350%;
+}
+p{
+    margin-block: 6%;
+    font-size: 110%;
+}
+button{
+    margin-right: 2%;
+    margin-top: 3%;
+    padding-inline: 1.7rem;
+    padding-block: 0.7rem;
+    border: 2px solid black;
+    border-radius: 25px;
+    font-size: 15px;
+}
+a{
+    font-size: 13px;
+}
